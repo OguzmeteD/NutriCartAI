@@ -37,3 +37,7 @@ site/
 
 # OS
 .DS_Store
+
+# Claude
+CLAUDE.md
+.CLAUDE.md.swp
